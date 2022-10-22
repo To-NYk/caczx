@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+
+body {
+    font-family: 'Merriweather', serif;
+    background-color: #F6F3F3 !important;
+
+}
+
+.contact-img {
+    width: 130px;
+    margin-left: 16px;
+    
+}
+
+.contact-img-big {
+    width: 45%;
+    margin-left: 100px;
+    border: 1px solid #c3c3c3;
+    
+}
+
